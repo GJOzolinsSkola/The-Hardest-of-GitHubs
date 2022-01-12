@@ -11,6 +11,7 @@ namespace The_Hardest_of_Console_Apps
         static void Main(string[] args)
         {
             Console.WriteLine("This app goes hard... feel free to launch.");
+            Console.WriteLine("Sveiks no skolotāja");
         }
     }
 }
